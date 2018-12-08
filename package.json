@@ -1,0 +1,25 @@
+{
+  "name": "@mdi/light-svg",
+  "version": "0.2.63",
+  "description": "Material Design Icons Light SVG",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/MaterialDesignLight-SVG.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "svg",
+    "mdi"
+  ],
+  "author": "Austin Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/MaterialDesignLight-SVG/issues"
+  },
+  "homepage": "https://github.com/Templarian/MaterialDesignLight-SVG#readme"
+}
